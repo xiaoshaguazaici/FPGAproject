@@ -1,0 +1,14 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: E:/fpga/Vivado201803/Vivado/2018.3/bin/unwrapped/win64.o/xelab.exe -wto d3a816b2e7ea42f8a39f983d745797ce --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot pwm_tb_behav xil_defaultlib.pwm_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "C:/Users/air/Desktop/gitFPGA/project/1_PWM/1_PWM.srcs/sources_1/new/pwm.v" Line 1. Module pwm doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.pwm
+Compiling module xil_defaultlib.pwm_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot pwm_tb_behav
