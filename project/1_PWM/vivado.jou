@@ -2,37 +2,18 @@
 # Vivado v2018.3 (64-bit)
 # SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
 # IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
-# Start of session at: Wed Nov 27 14:31:50 2024
-# Process ID: 7884
+# Start of session at: Thu Nov 28 09:53:28 2024
+# Process ID: 2656
 # Current directory: C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_PWM
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent1836 C:\Users\air\Desktop\gitFPGA\FPGAproject\project\1_PWM\1_PWM.xpr
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent23280 C:\Users\air\Desktop\gitFPGA\FPGAproject\project\1_PWM\1_PWM.xpr
 # Log file: C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_PWM/vivado.log
 # Journal file: C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_PWM\vivado.jou
 #-----------------------------------------------------------
 start_gui
 open_project C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_PWM/1_PWM.xpr
 update_compile_order -fileset sources_1
-reset_run synth_1
-launch_runs synth_1 -jobs 16
-wait_on_run synth_1
-launch_runs impl_1 -jobs 16
-wait_on_run impl_1
-launch_simulation
 launch_simulation
 source pwm_tb.tcl
 run all
 run all
-close_sim
-launch_simulation
-source pwm_tb.tcl
-run all
-reset_run synth_1
-launch_runs synth_1 -jobs 16
-wait_on_run synth_1
-reset_run synth_1
-launch_runs synth_1 -jobs 16
-wait_on_run synth_1
-reset_run synth_1
-launch_runs synth_1 -jobs 16
-wait_on_run synth_1
 close_sim

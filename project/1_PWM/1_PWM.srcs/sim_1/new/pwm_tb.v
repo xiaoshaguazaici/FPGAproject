@@ -6,7 +6,13 @@ reg reset_n;
 reg en;
 wire out;
 wire [25:0]now_cnt;
-pwm pwm1(
+pwm  #(
+.N(100),
+.M(100),
+.duty(40)
+)
+pwm1
+(
 .clk(clk),
 .reset_n(reset_n),
 .en(en),
