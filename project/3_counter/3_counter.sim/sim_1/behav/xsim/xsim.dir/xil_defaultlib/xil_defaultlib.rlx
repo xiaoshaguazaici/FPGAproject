@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/3_counter/3_counter.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/3_counter/3_counter.srcs/sim_1/new/basic_counter_tb.v,1732785241,verilog,,,,basic_counter_tb,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/3_counter/3_counter.srcs/sim_1/new/m_counter_tb.v,1732786345,verilog,,,,m_counter_tb,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/3_counter/3_counter.srcs/sources_1/new/basic_counter.v,1732785776,verilog,,C:/Users/air/Desktop/gitFPGA/FPGAproject/project/3_counter/3_counter.srcs/sim_1/new/m_counter_tb.v,,basic_counter,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/3_counter/3_counter.srcs/sources_1/new/m_counter.v,1732787199,verilog,,C:/Users/air/Desktop/gitFPGA/FPGAproject/project/3_counter/3_counter.srcs/sim_1/new/m_counter_tb.v,,m_counter,,,,,,,,
