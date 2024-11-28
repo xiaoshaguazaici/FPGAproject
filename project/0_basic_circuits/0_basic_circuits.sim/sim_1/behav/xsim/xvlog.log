@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/air/Desktop/gitFPGA/FPGAproject/project/0_basic_circuits/0_basic_circuits.srcs/sources_1/new/chapter4_asyn_rst_syn_enDFF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module chapter4_asyn_rst_syn_enDFF
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/air/Desktop/gitFPGA/FPGAproject/project/0_basic_circuits/0_basic_circuits.srcs/sim_1/new/asyn_reset_syn_enDFF_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module asyn_reset_syn_enDFF_tb
