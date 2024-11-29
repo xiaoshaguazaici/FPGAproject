@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Nov 29 10:59:43 2024
+# Process ID: 21724
+# Current directory: C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter/2_counter.runs/synth_1
+# Command line: vivado.exe -log basic_counter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source basic_counter.tcl
+# Log file: C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter/2_counter.runs/synth_1/basic_counter.vds
+# Journal file: C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter/2_counter.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source basic_counter.tcl -notrace
