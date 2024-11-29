@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<GenRun Id="synth_1" LaunchPart="xc7a35tfgg484-2" LaunchTime="1732849181">
+<GenRun Id="synth_1" LaunchPart="xc7a35tfgg484-2" LaunchTime="1732870495">
   <File Type="PA-TCL" Name="basic_counter.tcl"/>
   <File Type="RDS-PROPCONSTRS" Name="basic_counter_drc_synth.rpt"/>
   <File Type="REPORTS-TCL" Name="basic_counter_reports.tcl"/>

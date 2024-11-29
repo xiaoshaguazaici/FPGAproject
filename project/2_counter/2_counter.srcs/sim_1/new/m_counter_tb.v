@@ -4,11 +4,13 @@ module m_counter_tb();
 reg reset_n;
 reg clk;
 wire [3:0]cnt;
+wire out;
 wire cout;
 m_counter counter(
     .reset_n(reset_n),
     .clk(clk),
     .cnt(cnt),
+    .out(out),
     .cout(cout)
 );
 initial clk =1;

@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri Nov 29 10:59:23 2024
+# Process ID: 16108
+# Current directory: C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11848 C:\Users\air\Desktop\gitFPGA\FPGAproject\project\2_counter\2_counter.xpr
+# Log file: C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter/vivado.log
+# Journal file: C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter/2_counter.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/air/Desktop/gitFPGA/FPGAproject/project/3_counter' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/fpga/Vivado201803/Vivado/2018.3/data/ip'.
+update_compile_order -fileset sources_1
+reset_run synth_1
+launch_runs synth_1 -jobs 16
+[Fri Nov 29 10:59:42 2024] Launched synth_1...
+Run output will be captured here: C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter/2_counter.runs/synth_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Fri Nov 29 11:00:52 2024...
