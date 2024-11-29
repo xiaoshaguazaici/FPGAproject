@@ -4,4 +4,6 @@ Dec  7 2018
 00:33:28
 C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter/2_counter.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
 C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter/2_counter.srcs/sim_1/new/m_counter_tb.v,1732870050,verilog,,,,m_counter_tb,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter/2_counter.srcs/sim_1/new/period_counter_tb.v,1732789588,verilog,,,,period_counter_tb,,,,,,,,
 C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter/2_counter.srcs/sources_1/new/m_counter.v,1732870490,verilog,,C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter/2_counter.srcs/sim_1/new/m_counter_tb.v,,m_counter,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter/2_counter.srcs/sources_1/new/period_counter.v,1732892561,verilog,,C:/Users/air/Desktop/gitFPGA/FPGAproject/project/2_counter/2_counter.srcs/sim_1/new/period_counter_tb.v,,period_counter,,,,,,,,
