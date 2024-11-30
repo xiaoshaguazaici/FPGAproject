@@ -12,20 +12,20 @@ module LSM_level#(
     reg [25:0]cnt;
     always @(posedge clk or negedge reset_n) begin
         if(!reset_n)
-            cnt = 0;
+            cnt <= 0;
         else if(cnt == setcnt-1)
-            cnt = 0;
+            cnt <= 0;
         else
-            cnt=cnt+1;
+            cnt<=cnt+1;
     end
 //状态计数器8个状态
 reg [2:0]status;
     always @(posedge clk or negedge reset_n) begin
         if(!reset_n)
-            status=0;
+            status<=0;
         //注意在判断周期尾数是0
-        else if(cnt == 0)
-            status = status+1;
+        else if(cnt == setcnt-1)
+            status <= status+1;
     end
 //控制output状态输出寄存器
     always @(posedge clk or negedge reset_n)begin

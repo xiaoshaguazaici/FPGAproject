@@ -1,7 +1,7 @@
 Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.
 -------------------------------------------------------------------------------------------------------------
 | Tool Version : Vivado v.2018.3 (win64) Build 2405991 Thu Dec  6 23:38:27 MST 2018
-| Date         : Fri Nov 29 18:31:45 2024
+| Date         : Sat Nov 30 10:43:20 2024
 | Host         : LAPTOP-807191P6 running 64-bit major release  (build 9200)
 | Command      : report_utilization -file LSM_level_utilization_synth.rpt -pb LSM_level_utilization_synth.pb
 | Design       : LSM_level
@@ -30,8 +30,8 @@ Table of Contents
 +-------------------------+------+-------+-----------+-------+
 |        Site Type        | Used | Fixed | Available | Util% |
 +-------------------------+------+-------+-----------+-------+
-| Slice LUTs*             |   24 |     0 |     20800 |  0.12 |
-|   LUT as Logic          |   24 |     0 |     20800 |  0.12 |
+| Slice LUTs*             |   22 |     0 |     20800 |  0.11 |
+|   LUT as Logic          |   22 |     0 |     20800 |  0.11 |
 |   LUT as Memory         |    0 |     0 |      9600 |  0.00 |
 | Slice Registers         |   28 |     0 |     41600 |  0.07 |
 |   Register as Flip Flop |   28 |     0 |     41600 |  0.07 |
@@ -150,14 +150,13 @@ Table of Contents
 | Ref Name | Used | Functional Category |
 +----------+------+---------------------+
 | FDCE     |   28 |        Flop & Latch |
-| LUT2     |   25 |                 LUT |
+| LUT2     |   26 |                 LUT |
 | CARRY4   |    7 |          CarryLogic |
-| LUT4     |    6 |                 LUT |
-| LUT6     |    3 |                 LUT |
+| LUT4     |    5 |                 LUT |
+| LUT6     |    2 |                 LUT |
 | LUT1     |    2 |                 LUT |
 | IBUF     |    2 |                  IO |
 | OBUF     |    1 |                  IO |
-| LUT5     |    1 |                 LUT |
 | BUFG     |    1 |               Clock |
 +----------+------+---------------------+
 
