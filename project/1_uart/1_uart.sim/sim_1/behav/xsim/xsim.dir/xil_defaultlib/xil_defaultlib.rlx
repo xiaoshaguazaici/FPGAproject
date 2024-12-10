@@ -1,0 +1,9 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_uart/1_uart.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_uart/1_uart.srcs/sim_1/new/uart_loop_tb.v,1733814730,verilog,,,,uart_loop_tb,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_uart/1_uart.srcs/sources_1/new/uart_loop.v,1733811960,verilog,,C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_uart/1_uart.srcs/sources_1/new/uart_rx.v,,uart_loop,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_uart/1_uart.srcs/sources_1/new/uart_rx.v,1733814016,verilog,,C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_uart/1_uart.srcs/sources_1/new/uart_tx.v,,uart_rx,,,,,,,,
+C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_uart/1_uart.srcs/sources_1/new/uart_tx.v,1733810673,verilog,,C:/Users/air/Desktop/gitFPGA/FPGAproject/project/1_uart/1_uart.srcs/sim_1/new/uart_loop_tb.v,,uart_tx,,,,,,,,

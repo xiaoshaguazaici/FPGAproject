@@ -1,0 +1,8 @@
+set_property PACKAGE_PIN J19 [get_ports clk]
+set_property PACKAGE_PIN U2 [get_ports loop_rxd]
+set_property PACKAGE_PIN V2 [get_ports loop_txd]
+set_property PACKAGE_PIN L18 [get_ports reset_n]
+set_property IOSTANDARD LVCMOS33 [get_ports clk]
+set_property IOSTANDARD LVCMOS33 [get_ports loop_rxd]
+set_property IOSTANDARD LVCMOS33 [get_ports loop_txd]
+set_property IOSTANDARD LVCMOS33 [get_ports reset_n]
